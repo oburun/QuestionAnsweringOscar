@@ -1,0 +1,6 @@
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılında en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünü (kim (almıştır|aldı))[?]$
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılında en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünü (kim (kazanmıştır|kazandı))[?]$
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılında en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünün (sahibi (kim|kimdir|kim olmuştur))[?]$
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılının en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünü (kim (almıştır|aldı))[?]$
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılının en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünü (kim (kazanmıştır|kazandı))[?]$
+^((?:1929|(?:19[3-9][0-9]))|(?:20[0-1][0-9])) yılının en iyi (erkek oyuncu|kadın oyuncu|yardımcı erkek oyuncu|yardımcı kadın oyuncu|yönetmen) ödülünün (sahibi (kim|kimdir|kim olmuştur))[?]$

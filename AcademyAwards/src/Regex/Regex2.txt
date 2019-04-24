@@ -1,0 +1,4 @@
+^(.*) filmi hangi ödüllerin (sahibidir|sahibi olmuştur)[?]$
+^(.*) filmi hangi ödülleri kazanmıştır[?]$
+^(.*) filminin sahip olduğu ödüller hangileridir[?]$
+^(.*) filminin kazandığı ödüller (nelerdir|hangileridir)[?]$
